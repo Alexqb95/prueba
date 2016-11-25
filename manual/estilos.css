@@ -1,0 +1,42 @@
+body{margin-right:15%;
+margin-left:15%;
+font-family:monospace;
+background-color:#FFFFFFF;
+}
+dt{  font-size:18pt;
+color:#000000;
+font-weight: bold;
+font-family:monospace;
+}
+h1{font-size:40pt;
+text-align: center;
+color:green;
+font-family:monospace;
+background-color:rgba(161, 173, 177, 0.22);
+}
+h2{font-size:25pt;
+color:green;
+font-family:monospace;
+text-decoration: underline;
+background-color:rgba(161, 173, 177, 0.22);
+}
+dd{font-size:12pt;
+font-family:monospace;
+}
+hr{color:#000000;
+}
+footer{text-align: center;	
+}
+li{font-size:12pt;
+font-family:monospace;
+}
+p{font-size:12pt;
+font-family:monospace;
+}
+.caja{
+
+	background-color: rgb(236, 235, 235);
+    border: 1px solid;
+    border-radius: 30px;
+}
+a{color:green;}
